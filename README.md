@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior big data engineer at Sainte-Justine Hospital :hospital: based in Montréal, Canada
+I'm a senior big data engineer at Sainte-Justine Hospital :hospital: based in Canada
 <br />
 
 ### Languages and Tools:
