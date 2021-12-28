@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Senior big data engineer at https://github.com/Ferlab-Ste-Justine
+
+Currently working with:
+- Apache Spark
+- Apache Airflow
+- ElasticSearch
+- Kubernetes
+- Minio
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=botekchristophe)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botekchristophe)](https://github.com/anuraghazra/github-readme-stats)
