@@ -18,7 +18,7 @@ I'm a senior big data engineer at Sainte-Justine Hospital :hospital: based in Ca
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=botekchristophe)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botekchristophe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=botekchristophe)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
