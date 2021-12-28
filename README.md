@@ -16,11 +16,7 @@ I'm a senior big data engineer at Sainte-Justine Hospital :hospital: based in Ca
 <br />
 <br />
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=botekchristophe)](https://github.com/anuraghazra/github-readme-stats)
-
-[![weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=botekchristophe)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=botekchristophe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **botekchristophe/botekchristophe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
