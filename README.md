@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior big data engineer working at CHU Sainte-Justine :hospital: based in Canada
+I'm currently working as big data engineer at CHU Sainte-Justine :hospital: in Montréal
 <br />
 
 ### Languages and Tools:
