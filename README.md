@@ -6,6 +6,7 @@ I'm currently working as big data engineer at CHU Sainte-Justine :hospital: in M
 ### Languages and Tools:
 <img align="left" alt="Scala" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" />
 <img align="left" alt="Spark" width="26px" height="26px" src="https://raw.githubusercontent.com/botekchristophe/botekchristophe/main/Apache%20Spark-logo.svg" />
+<img align="left" alt="DeltaLake" width="26px" height="26px" src="https://raw.githubusercontent.com/botekchristophe/botekchristophe/main/Apache%20Spark-logo.svg" />
 <img align="left" alt="Airflow" width="26px" height="26px" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
 <img align="left" alt="Elasticsearch" height="26px" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5a54f1ac0a58f1a1/5ea8c80f4d8c1963bdceefef/brand-elastic-glyph-220x130.svg" />
 <img align="left" alt="Minio" height="26px" src="https://min.io/resources/img/logo/MINIO_Bird.png" />
