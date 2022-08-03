@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as big data engineer at CHU Sainte-Justine :hospital: in Montréal
+I'm currently working as back-end software engineer for Lookout and I'm based in Montréal, Qc
 <br />
 
 ### Languages and Tools:
