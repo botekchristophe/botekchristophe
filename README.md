@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as back-end software engineer for Lookout and I'm based in Montréal, Qc
+I'm currently working as back-end software engineer for Lookout and I'm based in Calgary, Canada
 <br />
 
 ### Languages and Tools:
